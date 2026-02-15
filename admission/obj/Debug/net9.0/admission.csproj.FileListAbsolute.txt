@@ -1,0 +1,5 @@
+I:\ASP\admission\obj\Debug\net9.0\admission.GeneratedMSBuildEditorConfig.editorconfig
+I:\ASP\admission\obj\Debug\net9.0\admission.AssemblyInfoInputs.cache
+I:\ASP\admission\obj\Debug\net9.0\admission.AssemblyInfo.cs
+I:\ASP\admission\obj\Debug\net9.0\admission.csproj.CoreCompileInputs.cache
+I:\ASP\admission\obj\Debug\net9.0\admission.sourcelink.json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAf69jg/4ig=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nihal\\Downloads\\AdmissionTest\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nihal\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.311\\microsoft.net.sdk.compilers.toolset.9.0.311.nupkg.sha512"
+  ],
+  "logs": []
+}

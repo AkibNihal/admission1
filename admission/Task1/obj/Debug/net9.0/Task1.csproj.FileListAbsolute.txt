@@ -1,0 +1,14 @@
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\nihal\Downloads\AdmissionTest\Task1\bin\Debug\net9.0\Task1.exe
+C:\Users\nihal\Downloads\AdmissionTest\Task1\bin\Debug\net9.0\Task1.deps.json
+C:\Users\nihal\Downloads\AdmissionTest\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+C:\Users\nihal\Downloads\AdmissionTest\Task1\bin\Debug\net9.0\Task1.dll
+C:\Users\nihal\Downloads\AdmissionTest\Task1\bin\Debug\net9.0\Task1.pdb
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.dll
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\refint\Task1.dll
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.pdb
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+C:\Users\nihal\Downloads\AdmissionTest\Task1\obj\Debug\net9.0\ref\Task1.dll
